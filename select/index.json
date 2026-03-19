@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "base_track": "Count Me Out",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-03-19T18:13:25.477686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Lil Tecca",
+      "has_synced": true,
+      "path": "select/01_Count_Me_Out_Lil_Tecca.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Count Me Out",
+      "artist": "Gerry Rafferty",
+      "has_synced": false,
+      "path": "select/02_Don't_Count_Me_Out_Gerry_Rafferty.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Wouldn't Count Me Out",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/03_Love_Wouldn't_Count_Me_Out_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Blood Red Shoes",
+      "has_synced": false,
+      "path": "select/04_Count_Me_Out_Blood_Red_Shoes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Count Me Out - Live at Montreux, 2010",
+      "artist": "Blood Red Shoes",
+      "has_synced": false,
+      "path": "select/05_Count_Me_Out_-_Live_at_Montreux,_2010_Blood_Red_Shoes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Count Me Out (Live at Montreux, 2010)",
+      "artist": "Blood Red Shoes",
+      "has_synced": false,
+      "path": "select/06_Count_Me_Out_(Live_at_Montreux,_2010)_Blood_Red_Shoes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/07_Count_Me_Out_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Chromeo",
+      "has_synced": true,
+      "path": "select/08_Count_Me_Out_Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Chiiild",
+      "has_synced": true,
+      "path": "select/09_Count_Me_Out_Chiiild.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Count Me Out (Explicit)",
+      "artist": "Chiiild",
+      "has_synced": true,
+      "path": "select/10_Count_Me_Out_(Explicit)_Chiiild.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Seether",
+      "has_synced": false,
+      "path": "select/11_Count_Me_Out_Seether.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "New Edition",
+      "has_synced": true,
+      "path": "select/12_Count_Me_Out_New_Edition.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Count Me Out (2002 Digital Remaster)",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/13_Count_Me_Out_(2002_Digital_Remaster)_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/14_Count_Me_Out_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "New Edition",
+      "has_synced": false,
+      "path": "select/15_Count_Me_Out_New_Edition.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Foxy Shazam",
+      "has_synced": false,
+      "path": "select/16_Count_Me_Out_Foxy_Shazam.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Count Me Out",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/17_Count_Me_Out_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Count Me In",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/18_Count_Me_In_Nas.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dear Maria, Count Me In",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/19_Dear_Maria,_Count_Me_In_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dear Maria, Count Me In (Connect Sets Acoustic)",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/20_Dear_Maria,_Count_Me_In_(Connect_Sets_Acoustic)_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dear Maria, Count Me In (Connect Sets acoustic)",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/21_Dear_Maria,_Count_Me_In_(Connect_Sets_acoustic)_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dear Maria, Count Me In (Live)",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/22_Dear_Maria,_Count_Me_In_(Live)_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dear Maria, Count Me In (Live)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/23_Dear_Maria,_Count_Me_In_(Live)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Count Me In",
+      "artist": "Crucified Barbara",
+      "has_synced": true,
+      "path": "select/24_Count_Me_In_Crucified_Barbara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Count Me Out",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_Count_Me_Out_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Count Me Out",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/localdb_01_Count_Me_Out_Kendrick_Lamar.lrc",
+      "repo_name": "5GhhVHpPR_M"
+    }
+  ]
+}
